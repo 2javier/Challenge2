@@ -1,4 +1,4 @@
-# LiterAluraAlexandria
+# LiterAluraChallenge
 
 Este proyecto fue creado como parte de mi proceso de aprendizaje. El objetivo principal era integrar la API Gutendex y almacenar los resultados en una base de datos PostgreSQL. El enfoque del proyecto se centra en funcionalidades específicas que permiten realizar operaciones básicas de gestión de libros.
 
